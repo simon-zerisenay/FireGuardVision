@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fire Detection using YOLOv8</title>
-</head>
 
-<body>
+
+
     <h1>Fire Detection using YOLOv8</h1>
     <p>
         This Python project utilizes the YOLOv8 object detection model to detect fires in real-time using either a
