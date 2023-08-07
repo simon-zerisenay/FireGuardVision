@@ -103,7 +103,7 @@
         </li>
     </ul>
 
-    <h2>Disclaimer</h2>
+ <h2>Disclaimer</h2>
     <p>
         This fire detection system is intended for educational and experimental purposes only. It may not be suitable
         for critical or high-stakes applications. Always use professional and reliable fire detection systems for
