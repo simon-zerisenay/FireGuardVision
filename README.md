@@ -28,7 +28,9 @@
     <p>
         Install the dependencies using the following command:
     </p>
+    <pre><code>pip install -r requirements.txt</code></pre>
     <pre><code>pip install opencv-python pygame cvzone ultralytics</code></pre>
+    
 
  <h2>Getting Started</h2>
     <ol>
