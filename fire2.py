@@ -29,7 +29,7 @@ cooldown_start_time = 0
 
 while True:
     ret, frame = cap.read()
-    frame = cv2.resize(frame, (640, 480))
+    frame = cv2.resize(frame, (1440, 680))
     result = model(frame, stream=True)
 
     # Getting bbox, confidence, and class names information to work with
