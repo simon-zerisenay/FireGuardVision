@@ -1,8 +1,4 @@
-    <title>Fire Detection using YOLOv8</title>
-
-
-
-    <h1>Fire Detection using YOLOv8</h1>
+<h1>Fire Detection using YOLOv8</h1>
     <p>
         This Python project utilizes the YOLOv8 object detection model to detect fires in real-time using either a
         webcam or a video file as input. When a fire is detected, an alarm sound is triggered to alert the user. The
@@ -10,8 +6,7 @@
         This project assumes that you have already trained the YOLOv8 model with around 50 images, each repeated 1500
         times, specifically for fire detection.
     </p>
-
-    <h2>Dependencies</h2>
+<h2>Dependencies</h2>
     <p>
         Before running the project, make sure you have the following dependencies installed:
     </p>
@@ -35,7 +30,7 @@
     </p>
     <pre><code>pip install opencv-python pygame cvzone ultralytics</code></pre>
 
-    <h2>Getting Started</h2>
+ <h2>Getting Started</h2>
     <ol>
         <li>
             Clone or download the YOLOv8 model repository and place the trained <code>fire.pt</code> file inside the
@@ -51,7 +46,7 @@
         </li>
     </ol>
 
-    <h2>Usage</h2>
+   <h2>Usage</h2>
     <ol>
         <li>
             Run the Python script containing the provided code to start the fire detection system.
@@ -76,7 +71,7 @@
         </li>
     </ol>
 
-    <h2>Note</h2>
+ <h2>Note</h2>
     <ul>
         <li>
             The provided code assumes that you have trained the YOLOv8 model with a dataset consisting of approximately
@@ -96,7 +91,7 @@
         </li>
     </ul>
 
-    <h2>Credits</h2>
+ <h2>Credits</h2>
     <ul>
         <li>
             The YOLOv8 model implementation is based on the Ultralytics library (
@@ -115,6 +110,3 @@
         real-world scenarios to ensure the safety of life and property. The author is not responsible for any misuse or
         consequences of using this project.
     </p>
-</body>
-
-</html>
