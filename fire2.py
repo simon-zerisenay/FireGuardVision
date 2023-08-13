@@ -4,7 +4,7 @@ import cv2
 import math
 import pygame
 import time
-   
+    
 # Initialize pygame for playing sound
 pygame.init()
 
