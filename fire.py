@@ -4,7 +4,7 @@ import cv2
 import math
  
  
-
+ 
 
 # Running real time from webcam
 cap = cv2.VideoCapture('fire2.mp4')
