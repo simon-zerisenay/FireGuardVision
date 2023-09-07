@@ -8,7 +8,7 @@ import time
 # Initialize pygame for playing sound
 pygame.init()
 
-# Load the sound file (replace 'alarm_sound.wav' with the path to your sound file)
+# Load the sound file (replace 'alarm_sound.wav' with the path to your sound file) 
 alarm_sound = pygame.mixer.Sound('alarm_sound.wav') 
  
 # Running real-time from webcam
