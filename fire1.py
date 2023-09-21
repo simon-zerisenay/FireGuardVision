@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cvzone
 import cv2
-import math 
+import math  
 import pygame
 
 # Initialize pygame for playing sound
