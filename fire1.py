@@ -4,7 +4,7 @@ import cv2
 import math  
 import pygame 
 
-# Initialize pygame for playing sound
+# Initialize pygame for playing sound 
 pygame.init()
  
 # Load the sound file (replace 'alarm_sound.wav' with the path to your sound file)
