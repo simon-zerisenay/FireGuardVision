@@ -3,7 +3,7 @@ import cvzone
 import cv2
 import math  
 import pygame   
-import time  
+import time   
      
 # Initialize pygame for playing sound
 pygame.init()
