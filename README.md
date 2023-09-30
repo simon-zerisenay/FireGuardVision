@@ -23,7 +23,7 @@
         <li>
             <a href="https://pypi.org/project/ultralytics/">Ultralytics</a>: Used to load the YOLOv8 model and perform
             real-time object detection.
-        </li>
+        </li> 
     </ul>
     <p>
         Install the dependencies using the following command:
