@@ -4,7 +4,7 @@
         webcam or a video file as input. When a fire is detected, an alarm sound is triggered to alert the user. The
         alarm has a cooldown period, during which it will not be triggered again if additional fires are detected.
         This project assumes that you have already trained the YOLOv8 model with around 50 images, each repeated 1500
-        times, specifically for fire detection.
+        times, specifically for fire detection. 
     </p>
 <h2>Dependencies</h2>  
     <p>   
