@@ -20,7 +20,7 @@ classnames = ['fire']
 while True:
     ret, frame = cap.read()
     frame = cv2.resize(frame, (640, 480))
-    result = model(frame, stream=True)
+    result = model(frame, stream=True) 
 
     # Getting bbox, confidence, and class names information to work with
     for info in result:
