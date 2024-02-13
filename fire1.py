@@ -13,7 +13,7 @@ alarm_sound = pygame.mixer.Sound('alarm_sound.wav')
 # Running real-time from webcam
 cap = cv2.VideoCapture('fire4.mp4')
 model = YOLO('fire.pt') 
-
+ 
 # Reading the classes 
 classnames = ['fire']
 
