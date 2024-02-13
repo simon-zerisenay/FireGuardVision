@@ -5,7 +5,7 @@ import math
 import pygame   
       
 # Initialize pygame for playing sound 
-pygame.init()
+pygame.init() 
  
 # Load the sound file (replace 'alarm_sound.wav' with the path to your sound file)
 alarm_sound = pygame.mixer.Sound('alarm_sound.wav')
