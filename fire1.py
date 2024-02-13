@@ -15,7 +15,7 @@ cap = cv2.VideoCapture('fire4.mp4')
 model = YOLO('fire.pt')  
  
 # Reading the classes 
-classnames = ['fire'] 
+classnames = ['fire']  
 
 while True:
     ret, frame = cap.read()
