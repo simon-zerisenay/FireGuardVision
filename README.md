@@ -7,7 +7,7 @@
         times, specifically for fire detection. 
     </p> 
 <h2>Dependencies</h2>  
-    <p>     
+    <p>      
         Before running the project, make sure you have the following dependencies installed:  
     </p>  
     <ul> 
