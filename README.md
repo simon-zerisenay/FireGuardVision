@@ -16,7 +16,7 @@
         </li>
         <li>  
             <a href="https://pypi.org/project/pygame/">Pygame</a>: Used to play the alarm sound.
-        </li> 
+        </li>  
         <li>
             <a href="https://pypi.org/project/cvzone/">cvzone</a>: Used for drawing text and rectangles on the image.
         </li>
