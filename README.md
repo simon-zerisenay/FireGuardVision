@@ -8,7 +8,7 @@
     </p> 
 <h2>Dependencies</h2>  
     <p>     
-        Before running the project, make sure you have the following dependencies installed: 
+        Before running the project, make sure you have the following dependencies installed:  
     </p>  
     <ul> 
         <li>
