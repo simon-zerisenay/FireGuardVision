@@ -10,7 +10,7 @@
     <p>      
         Before running the project, make sure you have the following dependencies installed:  
     </p>  
-    <ul> 
+    <ul>  
         <li>
             <a href="https://pypi.org/project/opencv-python/">OpenCV</a>: Used for image processing and video capture.
         </li>
