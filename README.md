@@ -14,7 +14,7 @@
         <li>
             <a href="https://pypi.org/project/opencv-python/">OpenCV</a>: Used for image processing and video capture.
         </li>
-        <li> 
+        <li>  
             <a href="https://pypi.org/project/pygame/">Pygame</a>: Used to play the alarm sound.
         </li>
         <li>
